@@ -65,19 +65,19 @@ working run the `collectSubmission.sh` script; this will produce a file called
 [the coursework](https://coursework.stanford.edu/portal/site/W15-CS-231N-01/)
 page for the course.
 
-### Q1: k-Nearest Neighbor classifier (30 points)
+### Q1: k-Nearest Neighbor classifier (30 points) [COMPLETE]
 
 The IPython Notebook **knn.ipynb** will walk you through implementing the kNN classifier.
 
-### Q2: Training a Support Vector Machine (30 points)
+### Q2: Training a Support Vector Machine (30 points) [COMPLETE]
 
 The IPython Notebook **svm.ipynb** will walk you through implementing the SVM classifier.
 
-### Q3: Implement a Softmax classifier (30 points)
+### Q3: Implement a Softmax classifier (30 points)[COMPLETE]
 
 The IPython Notebook **softmax.ipynb** will walk you through implementing the Softmax classifier.
 
-### Q4: Higher Level Representations: Image Features (10 points)
+### Q4: Higher Level Representations: Image Features (10 points) [COMPLETE]
 
 The IPython Notebook **features.ipynb** will walk you through this exercise, in which you will examine the improvements gained by using higher-level representations as opposed to using raw pixel values.
 
